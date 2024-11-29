@@ -12,6 +12,15 @@ People in Sri Lanka are polluting the environment due to a lack of environmental
 ### Project Purpose:
 To address this issue, we aim to develop an ICT solution to educate school students (Grades 6-13) about waste management and sustainable practices. By fostering environmental consciousness from a young age, we hope to cultivate a generation of responsible citizens who contribute to a cleaner and greener Sri Lanka.
 
+## Project Components
+Our project comprises four key components:
+
+1. Virtual Reality Tours
+2. Waste Management Learning Hub
+3. Event Management Platform
+4. Creative Platform
+
+
 ## Tools and Technologies
 
 The following tools and technologies will be employed in the development of the web application:
