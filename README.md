@@ -9,5 +9,5 @@
 ### Research Problem:
 People in Sri Lanka are polluting the environment due to a lack of environmental awareness and discipline, often stemming from a lack of education in their formative years.
 
-## Project Purpose:
+### Project Purpose:
 To address this issue, we aim to develop an ICT solution to educate school students (Grades 6-13) about waste management and sustainable practices. By fostering environmental consciousness from a young age, we hope to cultivate a generation of responsible citizens who contribute to a cleaner and greener Sri Lanka.
