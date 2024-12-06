@@ -1,11 +1,10 @@
 # Research-project : ICT solutions for waste Management in Sri Lanka
+### GitHub Repository : https://github.com/It21188022/Research-work/tree/main
 # Project ID: 24-25J-029
 ### Group Leader - IT21188022 - Premalal G.W.L.N
 ### Member 2 - IT21346286 - Amaratunga R.Y.S.
 ### Member 3 - IT21349010 - Senavirathna P.M.H.M.
 ### Member 4 - IT21177446 - Rathnasinghe R.H.S.
-
-### GitHub Repository : https://github.com/It21188022/Research-work/tree/main
 
 ## Project Overview
 ### Research Problem:
