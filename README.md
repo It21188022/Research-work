@@ -19,7 +19,7 @@ Our project comprises four key components:
 1. Virtual Reality Tours
 2. AI Driven - Waste Management Learning Hub With Adaptive Learning Capabilities.
 3. Sustainability Action Portal (Event Management Platform with integrated chatbot)
-4. Creative Platform
+4. Creative Platform (Digital)
 
 
 ## Tools and Technologies
